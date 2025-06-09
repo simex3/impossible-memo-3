@@ -1,0 +1,16 @@
+{
+  "name": "Impossible Memo",
+  "short_name": "Memo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#74ebd5",
+  "theme_color": "#74ebd5",
+  "description": "Un memorama imposible al estilo Impossible Mission.",
+  "icons": [
+    {
+      "src": "carta_logo_impossible_memo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
